@@ -1,0 +1,14 @@
+{
+    "name": "Gameplay.Battle.Core",
+    "rootNamespace": "Gameplay.Battle.Core",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

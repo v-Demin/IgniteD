@@ -1,9 +1,8 @@
-[submodule "Assets/Submodules/Common"]
-	path = Assets/Submodules/Common
-	url = ../Common.git
-[submodule "Common_Plugins"]
-	path = Common_Plugins
-	url = ../Common_Plugins.git
-[submodule "Assets/Submodules/Common_Plugins"]
-	path = Assets/Submodules/Common_Plugins
-	url = ../Common_Plugins.git
+[submodule "Assets/External/Submodules/Common"]
+	path = Assets/External/Submodules/Common
+	url = https://github.com/v-Demin/Common
+	branch = main
+[submodule "Assets/External/Submodules/Common_Plugins"]
+	path = Assets/External/Submodules/Common_Plugins
+	url = https://github.com/v-Demin/Common_Plugins
+	branch = main
